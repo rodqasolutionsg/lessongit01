@@ -1,0 +1,7 @@
+amend file text
+
+adding comments
+
+
+to ensure amend works
+
