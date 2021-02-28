@@ -1,9 +1,0 @@
-amend file text
-
-2nd update will leave and restore
-
-adding comments
-
-
-to ensure amend works
-how 0228
