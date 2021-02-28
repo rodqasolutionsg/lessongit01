@@ -2,8 +2,12 @@ comments
 1
 
 comment
+<<<<<<< HEAD
 2
 
 comment 3
 
 comment 4
+=======
+2
+>>>>>>> parent of 7471814... rv.txt 3rd comment
